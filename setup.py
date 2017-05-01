@@ -9,7 +9,7 @@ setup(
   license='LICENSE.txt',
   long_description=open('README.txt').read(),  
   url = 'https://github.com/yanshen0/SGHMCPackage', # use the URL to the github repo
-  download_url = 'https://github.com/yanshen0/SGHMCPackage/archive/0.1.tar.gz', 
+  download_url = 'https://github.com/yanshen0/SGHMCPackage/archive/0.2.tar.gz', 
   keywords = ['Stochastic Gradient Hamiltonian Monte Carlo', 'Hamiltonian Monte Carlo'], 
   classifiers = [],
 )
