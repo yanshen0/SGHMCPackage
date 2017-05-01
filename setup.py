@@ -2,7 +2,7 @@ from distutils.core import setup
 setup(
   name = 'sghmc',
   packages = ['sghmc'], # this must be the same as the name above
-  version = '0.1',
+  version = '0.2',
   description = 'Stochastic gradient Hamiltonian Monte Carlo package',
   author = 'Shen Yan',
   author_email = 'shenyan.username@gmail.com',
